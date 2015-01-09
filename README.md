@@ -1,6 +1,6 @@
 # my-webapp
 
-FIXME
+This is a simple Clojure Web Application using Ring and MongoDB.
 
 ## Prerequisites
 
